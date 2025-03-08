@@ -42,7 +42,7 @@ This project does not require compilation, as it is built using **HTML & CSS**.
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/muhammad3804/apple-website-clone.git
+   git clone https://github.com/Muhammad3804/apple-website-clone.git
    ```
 2. **Navigate to the project folder:**
    ```sh
